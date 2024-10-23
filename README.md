@@ -1,4 +1,4 @@
-# python-merge-excel
+# an automated Excel report merging tool
 
 ## 實作項目：
 

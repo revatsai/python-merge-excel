@@ -1,4 +1,4 @@
-# an automated Excel report merging tool
+# An automated Excel report merging tool
 
 ## 實作項目：
 
